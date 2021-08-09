@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>베이직러그(솔리드)</folder>
+	<filename>103933.png</filename>
+	<path>D:\가구분류\RAW_DATA\러그\베이직러그(솔리드)\103933.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>103</ymin>
+			<xmax>550</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

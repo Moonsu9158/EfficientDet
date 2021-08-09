@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>서랍장</folder>
+	<filename>102461.png</filename>
+	<path>F:\대학교 4학년 1학기\종설\LV0_침대+침실가구\수납장_중복제거\수납장_중복제거\서랍장\102461.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>101</ymin>
+			<xmax>372</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>207</ymin>
+			<xmax>550</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
